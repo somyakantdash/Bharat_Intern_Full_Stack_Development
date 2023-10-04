@@ -1,4 +1,4 @@
-# Bharat_Intern_Full_Stack_Development
+# Bharat_Intern_Full_Web_Stack_Development
 
 # Bharat-Intern-Tasks
 
